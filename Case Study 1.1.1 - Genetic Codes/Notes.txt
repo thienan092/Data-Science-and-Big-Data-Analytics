@@ -1,0 +1,1 @@
+IMPORTANT NOTE: One of the links in this documentation is incorrect. For Reference # 2 (page 11 of the PDF, 323 of the text), the correct link to "all the materials required for the tutorial" is this: http://www.ihes.fr/~zinovyev/pcadg/.
