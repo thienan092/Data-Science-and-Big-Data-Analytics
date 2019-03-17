@@ -3,7 +3,7 @@
 [image1]: ./images/PCA.PNG "PCA"
 [image2]: ./images/K-means.jpg "K-means"
 
-## Study Overview
+## Case Study Overview
 
 ### Goal
  - Use K-means to figure out that DNA is composed of three-letter words.
