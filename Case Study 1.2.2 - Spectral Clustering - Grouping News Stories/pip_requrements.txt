@@ -1,0 +1,4 @@
+pip install goose3
+pip install newspaper3k
+pip install git+https://github.com/mit-nlp/MITIE.git
+pip install Unidecode
