@@ -8,3 +8,5 @@ Case Study 1.1.2 - Finding themes in the Project Description/.ipynb_checkpoints/
 *.pyc
 Case Study 1.2.1 - Identifying Faces/eigenfaces/eigen_1.jpeg
 Case Study 1.2.2 - Spectral Clustering - Grouping News Stories/articles/article-1.txt
+.Rproj.user
+Case Study 5.1 - Identifying New Genes that Cause Autism/.RData
